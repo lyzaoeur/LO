@@ -1,3 +1,3 @@
 #My first story 
 Two
- ![Angkor Wat](Angkor Wat.jpg)
+ ![Describe the photo](Khmerkeyboard_Nida_V1.0.pdf)
