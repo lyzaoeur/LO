@@ -1,3 +1,3 @@
 #My first story 
 Two
-Angkor Wat.jpg
+[Describe the photo](Angkor Wat.jpg)
